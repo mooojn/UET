@@ -4,3 +4,6 @@
 [submodule "OOP-Semester-2"]
 	path = OOP-Semester-2
 	url = https://github.com/mooojn/OOP-Semester-2
+[submodule "DSA-Semester-3"]
+	path = DSA-Semester-3
+	url = https://github.com/mooojn/DSA-Semester-3
