@@ -1,3 +1,6 @@
 [submodule "PF-Semester-1"]
 	path = PF-Semester-1
 	url = https://github.com/mooojn/PF-Semester-1
+[submodule "OOP-Semester-2"]
+	path = OOP-Semester-2
+	url = https://github.com/mooojn/OOP-Semester-2
