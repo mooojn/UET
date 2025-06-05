@@ -1,7 +1,0 @@
-1. version: 1.1
-2. language: en-GB,en
-3. source-ip: 10.5.116.72
-4. status-code: 200 OK
-5. last-modified: Thu, 28 Nov 2024 06:17:02 GMT
-6. content-length: 128
-7. connection: Keep-Alive
